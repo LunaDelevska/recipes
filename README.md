@@ -1,1 +1,1 @@
-# recipes
+# Recipes from ingredients
